@@ -1,12 +1,18 @@
 # YQDownloadButton
-这是一个带有波浪效果和震动波效果的动画
+[![apm](https://img.shields.io/apm/l/vim-mode.svg?maxAge=2592000)]()
 
-## 效果图
+## Description
+
+WaterWave Download Animation.Thanks my friend give me this idea.If you want to how to achieve this effection,please read my blog analysis:
+
+- [YQDownloadButton---WaterWave Download Animation](http://www.jianshu.com/p/6b4347bd6c6f)
+
+## Screencast
 
 ![](./screencast.gif)
 
 
 
-## 博客分析
+## License
 
-[YQDownloadButton---带有波浪效果和震动波效果的动画](http://www.jianshu.com/p/6b4347bd6c6f)
+DGDownloaderButton is under the MIT license.
