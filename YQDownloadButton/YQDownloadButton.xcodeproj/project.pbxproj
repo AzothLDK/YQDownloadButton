@@ -451,6 +451,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = ZA3SQF67VQ;
 				INFOPLIST_FILE = YQDownloadButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -463,6 +464,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = ZA3SQF67VQ;
 				INFOPLIST_FILE = YQDownloadButton/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -540,6 +542,7 @@
 				44E91C881E49BE4F00BE73FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		44E91C891E49BE4F00BE73FD /* Build configuration list for PBXNativeTarget "YQDownloadButtonTests" */ = {
 			isa = XCConfigurationList;
@@ -548,6 +551,7 @@
 				44E91C8B1E49BE4F00BE73FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		44E91C8C1E49BE4F00BE73FD /* Build configuration list for PBXNativeTarget "YQDownloadButtonUITests" */ = {
 			isa = XCConfigurationList;
@@ -556,6 +560,7 @@
 				44E91C8E1E49BE4F00BE73FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
